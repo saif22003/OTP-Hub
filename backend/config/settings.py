@@ -23,7 +23,7 @@ DJANGO_APPS = [
 ]
 
 OTP_APPS = [
-    'VerifyX',
+    'VerifyX_app',
 ]
 
 THIRD_PARTY_APPS = [
